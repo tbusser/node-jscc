@@ -1,0 +1,20 @@
+{
+  "name": "jscc-node",
+  "version": "0.0.0",
+  "description": "Node.js version of the JavaScript Compatibility Checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "compatibility",
+    "jscc"
+  ],
+  "author": "Thijs Busser <tbusser@gmail.com> (http://tbusser.net/)",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^4.0.6",
+    "minimist": "^1.1.0"
+  }
+}
