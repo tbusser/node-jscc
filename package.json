@@ -11,10 +11,17 @@
     "compatibility",
     "jscc"
   ],
-  "author": "Thijs Busser <tbusser@gmail.com> (http://tbusser.net/)",
+  "author": "Thijs Busser <tbusser@gmail.com> (http://jscc.info/)",
   "license": "ISC",
   "devDependencies": {
     "glob": "^4.0.6",
     "minimist": "^1.1.0"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/tbusser/node-jscc"
+  },
+  "bugs":{
+      "url":"https://github.com/tbusser/node-jscc/issues"
   }
 }
