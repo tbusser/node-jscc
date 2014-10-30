@@ -14,14 +14,22 @@
   "author": "Thijs Busser <tbusser@gmail.com> (http://jscc.info/)",
   "license": "ISC",
   "devDependencies": {
+    "commander": "^2.5.0",
+    "exit": "^0.1.2",
     "glob": "^4.0.6",
-    "minimist": "^1.1.0"
+    "minimist": "^1.1.0",
+    "supports-color": "^1.2.0",
+    "vow": "^0.4.6",
+    "vow-fs": "^0.3.3"
   },
-  "repository":{
-    "type":"git",
-    "url":"https://github.com/tbusser/node-jscc"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tbusser/node-jscc"
   },
-  "bugs":{
-      "url":"https://github.com/tbusser/node-jscc/issues"
+  "bugs": {
+    "url": "https://github.com/tbusser/node-jscc/issues"
+  },
+  "bin": {
+    "jcss": "./bin/jcss"
   }
 }
