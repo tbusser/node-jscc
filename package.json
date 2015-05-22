@@ -30,6 +30,6 @@
     "url": "https://github.com/tbusser/node-jscc/issues"
   },
   "bin": {
-    "jcss": "./bin/jcss"
+    "jscc": "./bin/jscc.js"
   }
 }
